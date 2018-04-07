@@ -1,0 +1,6 @@
+main: me.noodles.tutorial2.Main
+version: 0.1
+name: Episode2
+commands:
+   YT:
+     description: TEST PLUGIN
